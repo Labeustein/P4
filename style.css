@@ -362,6 +362,19 @@ a:hover {
     z-index: 2;
 }
 
+
+.subtitre{
+    font-size: large;
+    font-weight: bold;
+
+}
+
+.subtitre-2{
+    font-size: medium;
+    font-style: italic;
+    font-weight: 600;
+
+}
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
